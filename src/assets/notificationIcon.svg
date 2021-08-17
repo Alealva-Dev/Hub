@@ -1,0 +1,5 @@
+<svg id="notifications-bell-button" xmlns="http://www.w3.org/2000/svg" width="17.509" height="20.599" viewBox="0 0 17.509 20.599">
+  <g id="notifications-none" transform="translate(0)">
+    <path id="Caminho_1" data-name="Caminho 1" d="M47,20.6a2.066,2.066,0,0,0,2.06-2.06h-4.12A2.066,2.066,0,0,0,47,20.6Zm6.695-6.18V8.755a6.628,6.628,0,0,0-5.15-6.489V1.545a1.545,1.545,0,1,0-3.09,0v.721a6.628,6.628,0,0,0-5.15,6.489v5.665l-2.06,2.06v1.03H55.759v-1.03Zm-2.06,1.03H42.37V8.755a4.635,4.635,0,1,1,9.27,0Z" transform="translate(-38.25)" fill="#fff"/>
+  </g>
+</svg>

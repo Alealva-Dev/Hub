@@ -1,0 +1,10 @@
+<svg id="stopwatch" xmlns="http://www.w3.org/2000/svg" width="22.125" height="24" viewBox="0 0 22.125 24">
+  <g id="Grupo_171" data-name="Grupo 171">
+    <g id="Grupo_170" data-name="Grupo 170" transform="translate(0)">
+      <path id="Caminho_134" data-name="Caminho 134" d="M384.985,15.167l2.546,2.123a.937.937,0,1,0,1.2-1.44l-2.546-2.123a.937.937,0,1,0-1.2,1.44Z" transform="translate(-367.555 -12.876)" fill="#fff"/>
+      <path id="Caminho_135" data-name="Caminho 135" d="M33.983,17.508a.934.934,0,0,0,.6-.218l2.546-2.123a.937.937,0,1,0-1.2-1.44L33.382,15.85a.937.937,0,0,0,.6,1.658Z" transform="translate(-32.434 -12.877)" fill="#fff"/>
+      <path id="Caminho_136" data-name="Caminho 136" d="M38.885,5.115A10.979,10.979,0,0,0,32,1.915V.938a.937.937,0,1,0-1.875,0v.977A11.063,11.063,0,0,0,23.24,20.76a11.064,11.064,0,0,0,14.378,1.089.938.938,0,1,0-1.112-1.509,9.175,9.175,0,1,1,2.611-2.979.938.938,0,1,0,1.643.9A11.068,11.068,0,0,0,38.885,5.115Z" transform="translate(-20)" fill="#fff"/>
+      <path id="Caminho_137" data-name="Caminho 137" d="M222.442,151.356a.938.938,0,0,0-1.318.139l-2.956,3.653a1.877,1.877,0,1,0,1.457,1.18l2.956-3.653A.937.937,0,0,0,222.442,151.356Z" transform="translate(-206.813 -144.062)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
